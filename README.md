@@ -10,7 +10,7 @@ http://localhost:8081/
 
 ## guide to run project
 
+- 并不需要使用上课演示的通过pyspark命令启动一个jupyter server再拉起notebook的形式来运行，直接使用带有pyspark库的python环境即可
 - Put dataset car_prices.csv at project root directory
-- Run preprocess.ipynb first
-- Run data_process.ipynb, you can adjust the process of data etl and model in this file
+- Run data_process.ipynb
 
